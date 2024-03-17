@@ -1,0 +1,7 @@
+{
+    "name": "Shades Of Purple Theme",
+    "version": "0.0.1",
+    "authors": ["Laurence Bugasu Ininda <laudebugs@gmail.com>"],
+    "description": "A port to Zed of the Shades Of Purple theme for Visual Studio Code",
+    "repository": "https://github.com/laudebugs/zed-shades-of-purple"
+}
